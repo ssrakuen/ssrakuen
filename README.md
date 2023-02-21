@@ -8,6 +8,6 @@ Saya memilih jurusan Teknik Informatika di Fakultas Komunikasi dan Informatika d
 
 Untuk menambah ilmu dan pengalaman tambahan, saya sedang mengikuti MSIB Bangkit 2023 yang diselenggarakan oleh Dicoding dengan bekerja sama dengan Kampus Merdeka, Google, GoTo dan Traveloka.
 
-Selain itu selama berkuliah, saya juga menekuni hobi dan juga pekerjaan sampingan sebagai Illustrator dan Live2D Art Artist.
+Selain itu selama berkuliah, saya juga menekuni hobi dan juga pekerjaan sampingan sebagai **Illustrator** dan **Live2D Art Artist**. (Sedang hiatus karena mengikuti program Bangkit)
 
 Jika tertarik, kamu bisa mengunjungi [linktr.ee](https://linktr.ee/ssrakuen)-ku ya!
