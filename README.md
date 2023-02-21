@@ -11,3 +11,10 @@ Untuk menambah ilmu dan pengalaman tambahan, saya sedang mengikuti MSIB Bangkit 
 Selain itu selama berkuliah, saya juga menekuni hobi dan juga pekerjaan sampingan sebagai **Illustrator** dan **Live2D Art Artist**. (Sedang hiatus karena mengikuti program Bangkit)
 
 Jika tertarik, kamu bisa mengunjungi [linktr.ee](https://linktr.ee/ssrakuen)-ku ya!
+
+<p align="left">
+<a href="https://github.com/ssrakuen">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
