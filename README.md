@@ -10,4 +10,4 @@ Untuk menambah ilmu dan pengalaman tambahan, saya sedang mengikuti MSIB Bangkit 
 
 Selain itu selama berkuliah, saya juga menekuni hobi dan juga pekerjaan sampingan sebagai Illustrator dan Live2D Art Artist.
 
-Jika tertarik, kamu bisa mengunjungi [linktr.ee](https://linktr.ee/ssrakuen)ku ya!
+Jika tertarik, kamu bisa mengunjungi [linktr.ee](https://linktr.ee/ssrakuen)-ku ya!
